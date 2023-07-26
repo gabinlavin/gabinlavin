@@ -19,7 +19,8 @@ Como estudiante de HENRY, he tenido la oportunidad de combinar mis intereses y h
 ## Tecnologías que uso
 
 - JavaScript
-- React.js
+- React.js ![image](https://github.com/gabinlavin/gabinlavin/assets/120674492/5501e533-a5a3-49d7-9194-e0e1f82ae34e)
+
 - Node.js
 - Express.js
 - PostgreSQL
