@@ -1,21 +1,21 @@
-# ¡Hola, soy Gabriel! 👋
+# Hello, I'm Gabriel! 👋
 
-## Acerca de mí
-Soy un apasionado Fullstack Developer con experiencia en el desarrollo web y la electrónica. Mi viaje comenzó con una formación técnica en electrónica, pero mi pasión por la tecnología y la programación me llevó a explorar el emocionante mundo del desarrollo web y la creación de aplicaciones.
+## About Me
+I'm a passionate Fullstack Developer with experience in web development and electronics. My journey began with technical training in electronics, but my love for technology and programming led me to explore the exciting world of web development and application creation.
 
-## ¿Qué hago?
+## What I Do
 
-Soy un estudiante apasionado a punto de graduarme de la prestigiosa academia de HENRY. Mi trayectoria académica me ha llevado a explorar mi pasión por la música, la electrónica, la programación y la inteligencia artificial.
+I'm an enthusiastic student about to graduate from the prestigious HENRY academy. My academic path has allowed me to explore my passion for music, electronics, programming, and artificial intelligence.
 
-🎵 **Música y Electrónica**: Desde muy joven, he estado fascinado por la música y la electrónica. Me encanta experimentar con la creación de sonidos únicos y el diseño de circuitos electrónicos para incorporarlos en mis proyectos.
+🎵 **Music and Electronics**: From a young age, I've been fascinated by music and electronics. I enjoy experimenting with creating unique sounds and designing electronic circuits to incorporate into my projects.
 
-💻 **Programación e Inteligencia Artificial**: La programación y la inteligencia artificial me cautivaron por su capacidad para crear soluciones innovadoras.
+💻 **Programming and Artificial Intelligence**: Programming and artificial intelligence have captivated me for their ability to create innovative solutions.
 
-Como estudiante de HENRY, he tenido la oportunidad de combinar mis intereses y habilidades en proyectos emocionantes y desafiantes. Mi enfoque como Fullstack Developer se centra en la creación de aplicaciones web que combinen mi pasión por la tecnología con mi interes en la programaciòn.
+As a student at HENRY, I've had the opportunity to combine my interests and skills in exciting and challenging projects. My focus as a Fullstack Developer is on creating web applications that merge my passion for technology with my interest in programming.
 
-¡Estoy emocionado/a por continuar creciendo como profesional y aplicar mis conocimientos para enfrentar nuevos retos en el mundo tecnológico!
+I'm excited to continue growing as a professional and applying my knowledge to tackle new challenges in the tech world!
 
-## Tecnologías que uso
+## Technologies I Use
 
 - JavaScript
 - React.js
@@ -29,12 +29,11 @@ Como estudiante de HENRY, he tenido la oportunidad de combinar mis intereses y h
 - HTML
 - CSS
 
-## Proyectos destacados
-- Proyecto Individual "Pokemon" (https://github.com/gabinlavin/Pokemon-PI): Mi primera aplicación individual es una emocionante temática de Pokémon, que incluye funcionalidades como filtrado, órdenes y posteos, con Backend, Frontend y Base de Datos integrados.
+## Highlighted Projects
+- Individual Project "Pokemon" (https://github.com/gabinlavin/Pokemon-PI): My first individual application is an exciting Pokémon-themed project, featuring functionalities like filtering, ordering, and posting, with integrated Backend, Frontend, and Database.
 
-## Contacto
-- Correo electrónico: gdc.contactme@gmail.com
+## Contact
+- Email: gdc.contactme@gmail.com
 - LinkedIn: Gabinlavin (https://www.linkedin.com/in/gabinlavin/)
 
-¡No dudes en contactarme para oportunidades de colaboración o para conocer más sobre mi trabajo!
-
+Feel free to reach out to me for collaboration opportunities or to learn more about my work!
